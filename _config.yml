@@ -12,9 +12,9 @@ title_separator          : "-"
 name                     : &name "Jia-Shun Wang"
 description              : &description "personal description"
 url                      : https://iplane787.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  "500x300.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -89,7 +89,7 @@ author:
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "wjs@outlook.at"
   researchgate     :  "https://www.researchgate.net/profile/wang_jiashun"
-  uri              :
+  uri              : "jia-shun.wang"
   bitbucket        :
   codepen          :
   dribbble         :
