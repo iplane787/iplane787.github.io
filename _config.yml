@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jia-Shun Wang / Academic Website"
+title                    : "Jiashun Wang / Academic Website"
 title_separator          : "-"
-name                     : &name "Jia-Shun Wang"
+name                     : &name "Jiashun Wang"
 description              : &description "personal description"
 url                      : https://iplane787.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
